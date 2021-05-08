@@ -1,0 +1,12 @@
+[package]
+name = "safety_breaker"
+version = "0.1.0"
+edition = "2018"
+authors = ["WinLinux1028 <WinLinux1028@github.com>"]
+definitions = "A library to beautify dirty code when writing unsafe code."
+repository = "https://github.com/WinLinux1028/safety_breaker"
+license-file = "LICENSE"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
